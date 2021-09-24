@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @satyabeer
-- 👀 I’m interested in cricket, learning new technologies
+- 👀 I’m interested in PHP, Laravel, WHMCS
 - 🌱 I’m currently learning nodejs
 - 📫 You can reach to me through satyabeer@shinedezign.com
 
